@@ -1,5 +1,5 @@
 package automationScripts;
 
-public class Logout1 {
+public class Quotes {
 
 }
