@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11502" started-at="2020-06-19T16:59:29Z" finished-at="2020-06-19T16:59:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11502" started-at="2020-06-19T16:59:29Z" finished-at="2020-06-19T16:59:40Z">
+      <class name="automationScripts.LoginVtiger">
+        <test-method status="PASS" signature="LaunchBrowser()[pri:0, instance:automationScripts.LoginVtiger@3d51f06e]" name="LaunchBrowser" is-config="true" duration-ms="5004" started-at="2020-06-19T16:59:29Z" finished-at="2020-06-19T16:59:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:automationScripts.LoginVtiger@3d51f06e]" name="Login" is-config="true" duration-ms="2899" started-at="2020-06-19T16:59:34Z" finished-at="2020-06-19T16:59:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:automationScripts.LoginVtiger@3d51f06e]" name="Test" duration-ms="6" started-at="2020-06-19T16:59:37Z" finished-at="2020-06-19T16:59:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="signOut()[pri:0, instance:automationScripts.LoginVtiger@3d51f06e]" name="signOut" is-config="true" duration-ms="2929" started-at="2020-06-19T16:59:37Z" finished-at="2020-06-19T16:59:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method status="PASS" signature="tearout()[pri:0, instance:automationScripts.LoginVtiger@3d51f06e]" name="tearout" is-config="true" duration-ms="630" started-at="2020-06-19T16:59:40Z" finished-at="2020-06-19T16:59:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearout -->
+      </class> <!-- automationScripts.LoginVtiger -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
